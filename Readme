@@ -1,0 +1,7 @@
+rotateimage 
+
+application written in C++ for creating rotated image
+
+In order to compile application run following command in Terminal (Ubuntu):
+
+g++ rotateimage.cpp -lpng -o rotateimage
